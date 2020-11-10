@@ -4,6 +4,7 @@ const { Post, User, Comment } = require('../models');
 
 //Main Homepage Route
 router.get('/', (req, res) => {
+    console.log(req.session);
     Post.findAll({
         order: [['created_at', 'DESC']], 
         attributes: [
@@ -43,6 +44,16 @@ router.get('/', (req, res) => {
             console.log(err);
             res.status(500).json(err);
         });
+});
+
+//Login Route
+router.get('/login', (req, res) => {
+    if (req.session.loggedIn) {
+        res.redirect('/');
+        return;
+    }
+    
+    res.render('login');
 });
 
 module.exports = router;
