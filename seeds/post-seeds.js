@@ -2,38 +2,38 @@ const { Post } = require('../models');
 
 const postdata = [
   {
-    title: 'Donec posuere metus vitae ipsum.',
-    post_url: 'https://buzzfeed.com/in/imperdiet/et/commodo/vulputate.png',
+    title: 'Everything you need to know about the MERN Stack.',
+    post_url: 'https://blog.hyperiondev.com/index.php/2018/09/10/everything-need-know-mern-stack/',
     user_id: 3
   },
   {
-    title: 'Morbi non quam nec dui luctus rutrum.',
-    post_url: 'https://nasa.gov/donec.json',
+    title: 'Squarespace for Devs',
+    post_url: 'https://developers.squarespace.com/beginner-tutorial',
     user_id: 4
   },
   {
-    title: 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.',
-    post_url: 'https://europa.eu/parturient/montes/nascetur/ridiculus/mus/etiam/vel.aspx',
+    title: 'Ethereum for the win!!!!',
+    post_url: 'https://developer-tech.com/news/2020/dec/01/ethereum-2-beacon-chain-launches-400m-staked/',
     user_id: 3
   },
   {
-    title: 'Nunc purus.',
-    post_url: 'http://desdev.cn/enim/blandit/mi.jpg',
+    title: 'Wanted to share this resource :)',
+    post_url: 'https://javascriptweekly.com/',
     user_id: 1
   },
   {
-    title: 'Pellentesque eget nunc.',
-    post_url: 'http://google.ca/nam/nulla/integer.aspx',
+    title: 'Node Weekly SignUp',
+    post_url: 'https://nodeweekly.com/',
     user_id: 2
   },
   {
-    title: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.',
-    post_url: 'https://stanford.edu/consequat.png',
+    title: "In case you didn't know about Cnet...." ,
+    post_url: 'https://www.cnet.com/',
     user_id: 4
   },
   {
-    title: 'In hac habitasse platea dictumst.',
-    post_url: 'http://edublogs.org/non/ligula/pellentesque.js',
+    title: 'Hacker News',
+    post_url: 'https://news.ycombinator.com/',
     user_id: 1
   },
 ];

@@ -2,68 +2,67 @@ const { Comment } = require('../models');
 
 const commentdata = [
   {
-    comment_text: 'Nunc rhoncus dui vel sem.',
+    comment_text: 'Super insightfull.',
     user_id: 1,
     post_id: 1
   },
   {
-    comment_text: 'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.',
+    comment_text: 'Cool post.',
     user_id: 2,
     post_id: 2
   },
   {
-    comment_text: 'Aliquam erat volutpat. In congue.',
+    comment_text: 'Really wishing I mined it now',
     user_id: 3,
     post_id: 3
   },
   {
-    comment_text: 'Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.',
+    comment_text: 'Does it have JQuery news too?',
     user_id: 4,
     post_id: 4
   },
   {
-    comment_text: 'In hac habitasse platea dictumst.',
+    comment_text: 'Is this just like JS weekly?',
     user_id: 1,
     post_id: 5
   },
   {
-    comment_text: 'Vivamus vestibulum sagittis sapien.',
+    comment_text: 'First time hearing about this, thanks!',
     user_id: 2,
     post_id: 6
   },
   {
-    comment_text: 'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.',
+    comment_text: 'Who calls devs hackers anymore lol?',
     user_id: 3,
     post_id: 7
   },
   {
-    comment_text: 'Sed vel enim sit amet nunc viverra dapibus.',
+    comment_text: 'Hacker News? What should I code in a dark room with my hoodie up too?',
     user_id: 4,
     post_id: 7
   },
   {
-    comment_text: 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.',
+    comment_text: 'Squarespace sucks.',
     user_id: 1,
     post_id: 2
   },
   {
-    comment_text: 'Morbi a ipsum.',
+    comment_text: 'I prefer the MEAN Stack',
     user_id: 2,
     post_id: 1
   },
   {
-    comment_text: 'Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.',
+    comment_text: 'Thanks for sharing!',
     user_id: 3,
     post_id: 4
   },
   {
-    comment_text: 'Donec ut mauris eget massa tempor convallis.',
+    comment_text: 'Signed Up!',
     user_id: 4,
     post_id: 5
   },
   {
-    comment_text:
-      'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.',
+    comment_text:'Cnet is the best.',
     user_id: 1,
     post_id: 6
   },
