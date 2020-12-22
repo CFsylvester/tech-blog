@@ -44,7 +44,7 @@ Enter password. <br />
 
 ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=for-the-badge)![Node.js](https://img.shields.io/badge/-Node.js-9cf?style=for-the-badge)![Express.js](https://img.shields.io/badge/-Express-white?style=for-the-badge)![Handlebars](https://img.shields.io/badge/-Handlebars-9cf?style=for-the-badge)![Bcrypt](https://img.shields.io/badge/-Bcrypt-white?style=for-the-badge)![Sequelize](https://img.shields.io/badge/-Sequelize-9cf?style=for-the-badge)![Dotenv](https://img.shields.io/badge/-Dotenv-white?style=for-the-badge)  <br />
 
-![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MySql-inactive?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Testing-Jest-inactive?style=for-the-badge) 
+![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge)![MySql](https://img.shields.io/badge/Database-MySql-inactive?style=for-the-badge)![Testing Jest](https://img.shields.io/badge/Testing-Jest-inactive?style=for-the-badge) 
 
  ## Questions
   Please reach out to me at [clairesylvester@clairecodes.dev](mailto:clairesylvester@clairecodes.dev?subject=[GitHub%tech-blog]%20Source%20Han%20Sans)
