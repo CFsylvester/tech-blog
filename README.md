@@ -35,7 +35,7 @@ Enter password. <br />
   `source db/schema.sql` <br />
 <br />Quit MySQL and seed the database.  <br />
   `quit
-  node seeds`
+  node seeds`  <br />
 <br />Start the server. <br />
   `npm start`
 
